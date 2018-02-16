@@ -1,0 +1,12 @@
+{
+  "name": "@yosmy/moment",
+  "version": "0.1.0",
+  "main": "build/index.js",
+  "dependencies": {
+    "date-fns": "2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.6.0"
+  }
+}
